@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tryst 4.0</string>
+    <string name="rays_name">Team Rays</string>
+    <string name="connectBT">Connect</string>
+    <string name="rays_logo">Rays Logo</string>
+    <string name="title_activity_sensor">SensorActivity</string>
+</resources>
